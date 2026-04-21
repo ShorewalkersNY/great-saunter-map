@@ -1215,19 +1215,35 @@
             }
         },
         {
-  "type": "Feature",
+            "type": "Feature",
             "properties": {
                 "name": "Route",
                 "type": "route-info",
                 "description": "Left on Delancey St. after crossing under the Williamsburg Bridge."
             },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -73.9808442,
-      40.7158545
-    ]
-  }
-}
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9808442,
+                    40.7158545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Monsignor Kett Playground"
+            },
+            "geometry": {
+                "coordinates": [
+                    -73.920660700225056,
+                    40.862558987202362
+                ],
+                "type": "Point"
+            },
+            "id": 80
+        }
     ]
 }
