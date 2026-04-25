@@ -1286,8 +1286,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.995416,
-                    40.769938
+                    -73.9808442,
+                    40.7158545
                 ]
             }
         },
@@ -1296,30 +1296,16 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Riverside Clay Tennis Association Porta Potty"
+                "description": "Monsignor Kett Playground"
             },
             "geometry": {
-                "type": "Point",
                 "coordinates": [
-                    -73.976353,
-                    40.797143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "Corlears Hook Park"
+                    -73.920660700225056,
+                    40.862558987202362
+                ],
+                "type": "Point"
             },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.979711,
-                    40.711794
-                ]
-            }
+            "id": 80
         }
     ]
 }
