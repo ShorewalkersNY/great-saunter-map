@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
                 "description": "30 Miles"
             }
@@ -28,7 +28,7 @@
             "properties": {
                 "name": "Refreshments",
                 "type": "refreshments",
-                "description": "Snack & drink stop 4-7:30 pm"
+                "description": "Snack stop 4-7:30 pm"
             }
         },
         {
@@ -41,7 +41,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Exit Stuyvesant Cove Park. Carefully cross FDR access road and continue south along Avenue C."
             }
@@ -56,7 +56,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Navigate to path adjacent to river. Continue south to Pier 42 park."
             },
@@ -72,7 +72,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Cross pedestrian bridge to East River Park."
             },
@@ -88,7 +88,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Bear left past gas station to enter Stuyvesant Cove Park. Continue past Solar One Environmental Education Center on the right."
             }
@@ -103,7 +103,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Cross Sutton Place to 54th St., left on 1st Ave., pass the United Nations."
             }
@@ -118,7 +118,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Follow the esplanade along the new East Midtown Greenway and over the pedestrian bridge."
             },
@@ -134,7 +134,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on 35th St., carefully cross the service road and go under the FDR to the East River Esplanade then go right."
             },
@@ -150,7 +150,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on 63rd St. to the pedestrian bridge and back to the walkway."
             },
@@ -169,7 +169,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Staten Island Ferry - 2nd floor"
+                "description": "SI Ferry Terminal - 2nd floor"
             }
         },
         {
@@ -177,15 +177,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.011191,
-                    40.703278,
+                    -74.011462,
+                    40.703451,
                     0
                 ]
             },
             "properties": {
-                "name": "Route",
-                "type": "route-info",
-                "description": "Water St. is at the back of Fraunces Tavern.  Cross Water St., turn right and walk past the Staten Island Ferry. Continue along State St. past Battery Park (under construction/no exit)"
+                "name": "Mile Marker",
+                "type": "mile-marker",
+                "description": "Mile 32.45. Finish the Great Saunter at Fraunces Tavern at Pearl and Broad Streets."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.009565,
+                    40.702322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mile Marker",
+                "type": "mile-marker",
+                "description": "0 miles. Start the Great Saunter on South St. at the southern end of the plaza adjacent to 55 Water Street"
             }
         },
         {
@@ -198,7 +214,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on Battery Place, left on 2nd Place, right on the Battery Park City Esplanade along the Hudson River."
             }
@@ -214,7 +230,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Caution: at 101st St. walk on the left side of the walkway, and watch out for bikes."
             }
@@ -246,7 +262,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Exit Inwood Hill Park at Isham St., right on 10th Ave., cross 10th Ave. at 207th St., right on 10th Ave. to Dyckman St."
             }
@@ -278,9 +294,9 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
-                "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk along the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill."
+                "description": "Cross Dyckman St. and enter Inwood Hill Park. Walk alongside the train tracks, take the pedestrian bridge over the tracks, keep left at the forks, walk beneath the Henry Hudson Bridge and down the hill."
             },
             "id": 19
         },
@@ -327,7 +343,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Marshalls"
+                "description": "Marshalls - East River Plaza 4th Fl"
             }
         },
         {
@@ -372,7 +388,7 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
                 "description": "15 Miles"
             }
@@ -387,9 +403,9 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
-                "description": "At the bottom of the hill, pass Shorakkopoch Rock and stay on the path, then take the first right to the Great Saunter lunch break."
+                "description": "At the bottom of the hill, pass Shorakkopoch Rock and stay on the path, then take the first right to the Great Saunter midway stop."
             }
         },
         {
@@ -402,7 +418,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Walk south along the river, passing beneath the Washington Bridge, Alexander Hamilton Bridge, and the High Bridge."
             }
@@ -417,7 +433,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Cross 155th St. and bear left past the fountain on to Edgecombe Ave. to 145th St."
             }
@@ -432,7 +448,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Right on Pleasant Ave, enter Thomas Jefferson Park, follow the park walkway and cross the pedestrian bridge at 112th St."
             }
@@ -447,7 +463,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on Cherokee Place, right on 76th St., left on York Ave."
             },
@@ -465,7 +481,7 @@
             "properties": {
                 "name": "Refreshments",
                 "type": "refreshments",
-                "description": "Lunch break: Snacks/drinks 11:00 am-2 pm"
+                "description": "Midway stop 11:00 am-2 pm"
             }
         },
         {
@@ -508,7 +524,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Go south on John Finley Walk, follow the ramp down at 81st St., exit the walkway on the 78th St. Pedestrian Bridge."
             }
@@ -538,7 +554,7 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
                 "description": "25 Miles"
             }
@@ -553,7 +569,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Pass Little Red Lighthouse and below George Washington Bridge, then up steep hill (watch out for bikes). Proceed past the 181st St. Pedestrian Bridge and Inspiration Point overlook, follow switchback ramp to Dyckman St."
             }
@@ -568,7 +584,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on 145th St., down the hill, right on Malcolm X Blvd."
             }
@@ -585,7 +601,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "128th St. & Lexington Ave."
+                "description": "Alice Kornegay Triangle"
             }
         },
         {
@@ -600,7 +616,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Marina"
+                "description": "Dyckman Marina"
             },
             "id": 40
         },
@@ -632,7 +648,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Charles Young playground"
+                "description": "Colonel Charles Young Playground"
             }
         },
         {
@@ -788,7 +804,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "39th St. ferry terminal"
+                "description": "39th St. Ferry Terminal"
             }
         },
         {
@@ -826,23 +842,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.958876,
-                    40.759412
-                ]
-            },
-            "properties": {
-                "name": "Restrooms",
-                "type": "restrooms",
-                "description": "24 Sycamores Park"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.97322,
-                    40.745012
+                    -73.97329,
+                    40.744868
                 ]
             },
             "properties": {
@@ -862,7 +863,7 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
                 "description": "5 miles"
             }
@@ -877,7 +878,7 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
                 "description": "10 miles"
             }
@@ -892,7 +893,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Follow the Esplanade north past Brookfield Place to Hudson River Park and continue north on the Hudson River Greenway, past Little Island Park, Chelsea Piers and the Intrepid."
             }
@@ -907,7 +908,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Enter Riverside Park at 59th St."
             }
@@ -922,7 +923,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Bear left and enter the Harlem River Drive Greenway in front of the school."
             }
@@ -937,7 +938,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Follow the ramp away from the river, carefully cross the street at the end of the ramp, turn right and go up the hill to 155th St."
             }
@@ -952,7 +953,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Just past Pier 11, turn right and cross South St. into Old Slip, cross Water St., go left on Pearl St. and continue to the finish at Fraunces Tavern."
             }
@@ -967,7 +968,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Follow the Greenway under the highway, past Riverbank State Park and into Fort Washington Park."
             }
@@ -1012,9 +1013,9 @@
                 ]
             },
             "properties": {
-                "name": "Mileage",
+                "name": "Mile Marker",
                 "type": "mile-marker",
-                "description": "Left on 143rd St, right on Fifth Ave., left on 128th St. to 2nd Ave."
+                "description": "20 Miles"
             }
         },
         {
@@ -1027,7 +1028,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Go straight at the end of the bridge and walk south with the Harlem River on your left. Enter Carl Schurz Park at 88th St."
             }
@@ -1088,7 +1089,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "At traffic light, cross South St. and continue past Pier 17 and Pier 11."
             }
@@ -1105,7 +1106,7 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Gansevoort Peninsula pavillion"
+                "description": "Gansevoort Peninsula Pavillion"
             }
         },
         {
@@ -1148,7 +1149,7 @@
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left out of park and follow path behind Pier 36. Left onto walkway, continue under Manhattan Bridge. Cross at Catherine Slip and follow to traffic light at Dover St."
             }
@@ -1158,12 +1159,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9811936,
+                    -73.981194,
                     40.720833
                 ]
             },
             "properties": {
-                "name": "Route",
+                "name": "Route Info",
                 "type": "route-info",
                 "description": "Left on E. Houston St to Avenue D."
             },
@@ -1171,31 +1172,92 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "type": "route-info",
-                "name": "Route",
-                "description": "Left on 143rd St, right on Fifth Ave., left on 128th St. to 2nd Ave."
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.936952,
                     40.819134
                 ]
+            },
+            "properties": {
+                "type": "route-info",
+                "name": "Route Info",
+                "description": "Left on 143rd St, right on Fifth Ave., left on 128th St. to 2nd Ave."
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Route",
-                "type": "route-info",
-                "description": "Right on 2nd Ave., left on 120th St. to Pleasant Ave. "
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -73.932276,
                     40.804675
+                ]
+            },
+            "properties": {
+                "name": "Route Info",
+                "type": "route-info",
+                "description": "Right on 2nd Ave., left on 120th St. to Pleasant Ave. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981607,
+                    40.715934
+                ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Luther Gulick Playground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.980844,
+                    40.715855
+                ]
+            },
+            "properties": {
+                "name": "Route Info",
+                "type": "route-info",
+                "description": "Left on Delancey St. after crossing under the Williamsburg Bridge."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.920661,
+                    40.862559
+                ]
+            },
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Monsignor Kett Playground"
+            },
+            "id": 80
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Wagner Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.018083,
+                    40.7052
                 ]
             }
         },
@@ -1204,22 +1266,22 @@
             "properties": {
                 "name": "Restrooms",
                 "type": "restrooms",
-                "description": "Luther Gulick Playground"
+                "description": "Pier 62"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9816072,
-                    40.7159335
+                    -74.008419,
+                    40.74854
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Route",
-                "type": "route-info",
-                "description": "Left on Delancey St. after crossing under the Williamsburg Bridge."
+                "name": "Restrooms",
+                "type": "restrooms",
+                "description": "Pier 94"
             },
             "geometry": {
                 "type": "Point",

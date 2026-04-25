@@ -146,16 +146,6 @@ const Map = ({ setShowModal, isMobile }) => {
 
             sortedPoints.forEach(({ geometry, properties }) => {
 
-
-                let popupHtml = `
-      <div>      `
-                if (properties.description) {
-                    popupHtml += `<div>${properties.description}</div>`
-                }
-
-                popupHtml += '</div>'
-
-
                 let iconClass = ''
                 let color = 'black'
 
@@ -166,7 +156,19 @@ const Map = ({ setShowModal, isMobile }) => {
                     color = match.color
                 }
 
-                const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(popupHtml);
+                let popupHtml = `
+      <div class="custom-popup">
+        <div class="popup-header" style="background-color: ${color}">
+          <i class="${iconClass} popup-icon"></i>
+          <h3 class="popup-title">${properties.name || 'Point of Interest'}</h3>
+        </div>`
+                if (properties.description) {
+                    popupHtml += `<div class="popup-description">${properties.description}</div>`
+                }
+
+                popupHtml += '</div>'
+
+                const popup = new mapboxgl.Popup({ offset: 25, closeButton: true }).setHTML(popupHtml);
                 new FontawesomeMarker({
                     icon: iconClass,
                     color
